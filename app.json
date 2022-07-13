@@ -11,12 +11,12 @@
 	},
     "keywords": ["python", "binance","trading","trader","bot","market","maker","algo","crypto"],
     "env": {
-      "API_KEY": {pWkPYns5uZmhnQnfHj5o9nPF8uXBHg0g2cvu6xAWojiEJkTsIXldMRYfjZfQXRpl
+      "API_KEY": pWkPYns5uZmhnQnfHj5o9nPF8uXBHg0g2cvu6xAWojiEJkTsIXldMRYfjZfQXRpl
 
         "description": "Binance API key generated in the Binance account setup stage",
         "required": true
       },
-      "API_SECRET_KEY": {XEJQssDoieTWaLHIYXSpWK7NiVvd5TGfAmqChxWJI4ifBH4eaGkaMzuNOafAeFtk
+      "API_SECRET_KEY": XEJQssDoieTWaLHIYXSpWK7NiVvd5TGfAmqChxWJI4ifBH4eaGkaMzuNOafAeFtk
         "description": "Binance secret key generated in the Binance account setup stage",
         "required": true
       },

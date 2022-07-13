@@ -11,11 +11,12 @@
 	},
     "keywords": ["python", "binance","trading","trader","bot","market","maker","algo","crypto"],
     "env": {
-      "API_KEY": {
+      "API_KEY": {pWkPYns5uZmhnQnfHj5o9nPF8uXBHg0g2cvu6xAWojiEJkTsIXldMRYfjZfQXRpl
+
         "description": "Binance API key generated in the Binance account setup stage",
         "required": true
       },
-      "API_SECRET_KEY": {
+      "API_SECRET_KEY": {XEJQssDoieTWaLHIYXSpWK7NiVvd5TGfAmqChxWJI4ifBH4eaGkaMzuNOafAeFtk
         "description": "Binance secret key generated in the Binance account setup stage",
         "required": true
       },
@@ -67,7 +68,7 @@
       "SUPPORTED_COIN_LIST": {
         "description": "Supported coin list",
         "required": true,
-		"value": "ADA ATOM BAT BTT DASH DOGE EOS ETC ICX IOTA NEO OMG ONT QTUM TRX VET XLM XMR"
+		"value": "BTC USDC BUSD"
       }
     }
   }
